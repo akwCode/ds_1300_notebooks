@@ -1,57 +1,57 @@
-Name	Date	Status
-Delaware 	December 7, 1787	State
-Pennsylvania 	December 12, 1787	State
-New Jersey 	December 18, 1787	State
-Georgia 	January 2, 1788	State
-Connecticut 	January 9, 1788	State
-Massachusetts 	February 6, 1788	State
-Maryland 	April 28, 1788	State
-South Carolina 	May 23, 1788	State
-New Hampshire 	June 21, 1788	State
-Virginia 	June 25, 1788	State
-New York 	July 26, 1788	State
-North Carolina 	November 21, 1789	State
-Rhode Island 	May 29, 1790	State
-Vermont 	March 4, 1791	State
-Kentucky 	June 1, 1792	State
-Tennessee 	June 1, 1796	State
-Ohio 	March 1, 1803	State
-Louisiana 	April 30, 1812	State
-Indiana 	December 11, 1816	State
-Mississippi 	December 10, 1817	State
-Illinois 	December 3, 1818	State
-Alabama 	December 14, 1819	State
-Maine 	March 15, 1820	State
-Missouri 	August 10, 1821	State
-Arkansas 	June 15, 1836	State
-Michigan 	January 26, 1837	State
-Florida 	March 3, 1845	State
-Texas 	December 29, 1845	State
-Iowa 	December 28, 1846	State
-Wisconsin 	May 29, 1848	State
-California 	September 9, 1850	State
-Minnesota 	May 11, 1858	State
-Oregon 	February 14, 1859	State
-Kansas 	January 29, 1861	State
-West Virginia 	June 20, 1863	State
-Nevada 	October 31, 1864	State
-Nebraska 	March 1, 1867	State
-Colorado 	August 1, 1876	State
-North Dakota 	November 2, 1889	State
-South Dakota 	November 2, 1889	State
-Montana 	November 8, 1889	State
-Washington 	November 11, 1889	State
-Idaho 	July 3, 1890	State
-Wyoming 	July 10, 1890	State
-Utah 	January 4, 1896	State
-Oklahoma 	November 16, 1907	State
-New Mexico 	January 6, 1912	State
-Arizona 	February 14, 1912	State
-Alaska 	January 3, 1959	State
-Hawaii 	August 21, 1959	State
-Guam	April 11, 1899	Territory
-American Samoa	April 17, 1900	Territory
-Northern Mariana Islands	November 4, 1986	Territory
-Puerto Rico	April 11, 1899	Territory
-United States Virgin Islands	March 31, 1917	Territory
-District of Columbia	February 21, 1871	Federal District
+Name	Date	Status	Abbreviation
+Alabama 	December 14, 1819	State	AL 
+Alaska 	January 3, 1959	State	AK 
+American Samoa	April 17, 1900	Territory	AS
+Arizona 	February 14, 1912	State	AZ 
+Arkansas 	June 15, 1836	State	AR 
+California 	September 9, 1850	State	CA 
+Colorado 	August 1, 1876	State	CO 
+Connecticut 	January 9, 1788	State	CT 
+Delaware 	December 7, 1787	State	DE 
+District of Columbia	February 21, 1871	Federal District	DC 
+Florida 	March 3, 1845	State	FL 
+Georgia 	January 2, 1788	State	GA 
+Guam	April 11, 1899	Territory	GU
+Hawaii 	August 21, 1959	State	HI 
+Idaho 	July 3, 1890	State	ID 
+Illinois 	December 3, 1818	State	IL 
+Indiana 	December 11, 1816	State	IN 
+Iowa 	December 28, 1846	State	IA 
+Kansas 	January 29, 1861	State	KS 
+Kentucky 	June 1, 1792	State	KY 
+Louisiana 	April 30, 1812	State	LA 
+Maine 	March 15, 1820	State	ME 
+Maryland 	April 28, 1788	State	MD 
+Massachusetts 	February 6, 1788	State	MA 
+Michigan 	January 26, 1837	State	MI 
+Minnesota 	May 11, 1858	State	MN 
+Mississippi 	December 10, 1817	State	MS 
+Missouri 	August 10, 1821	State	MO 
+Montana 	November 8, 1889	State	MT 
+Nebraska 	March 1, 1867	State	NE 
+Nevada 	October 31, 1864	State	NV 
+New Hampshire 	June 21, 1788	State	NH 
+New Jersey 	December 18, 1787	State	NJ 
+New Mexico 	January 6, 1912	State	NM 
+New York 	July 26, 1788	State	NY 
+North Carolina 	November 21, 1789	State	NC 
+North Dakota 	November 2, 1889	State	ND 
+Northern Mariana Islands	November 4, 1986	Territory	MP
+Ohio 	March 1, 1803	State	OH 
+Oklahoma 	November 16, 1907	State	OK 
+Oregon 	February 14, 1859	State	OR 
+Pennsylvania 	December 12, 1787	State	PA 
+Puerto Rico	April 11, 1899	Territory	PR
+Rhode Island 	May 29, 1790	State	RI 
+South Carolina 	May 23, 1788	State	SC 
+South Dakota 	November 2, 1889	State	SD 
+Tennessee 	June 1, 1796	State	TN 
+Texas 	December 29, 1845	State	TX 
+United States Virgin Islands	March 31, 1917	Territory	VI
+Utah 	January 4, 1896	State	UT 
+Vermont 	March 4, 1791	State	VT 
+Virginia 	June 25, 1788	State	VA 
+Washington 	November 11, 1889	State	WA 
+West Virginia 	June 20, 1863	State	WV 
+Wisconsin 	May 29, 1848	State	WI 
+Wyoming 	July 10, 1890	State	WY 
