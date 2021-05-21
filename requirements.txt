@@ -5,5 +5,7 @@ seaborn
 nltk
 textblob
 wordcloud
-dask
+dask[complete]
 pyarrow
+statsmodels
+
